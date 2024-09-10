@@ -1,8 +1,8 @@
 
-```markdown
+
 # SQLZoo Solutions
 
-## SQL SELECT Basics
+## **SQL SELECT Basics**
 
 ### 1. Show the population of Germany
 ```sql
